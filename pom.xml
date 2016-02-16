@@ -29,21 +29,14 @@
     </license>
   </licenses>
 
-  <developers>
-    <developer>
-      <name>Samuel Audet</name>
-      <email>samuel.audet@gmail.com</email>
-    </developer>
-  </developers>
-
   <prerequisites>
     <maven>3.0.4</maven>
   </prerequisites>
 
   <scm>
     <url>https://github.com/bytedeco/javacpp</url>
-    <connection>scm:git:git://github.com/bytedeco/javacpp.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/bytedeco/javacpp.git</developerConnection>
+    <connection>scm:git:git://github.com/walterwsp/Java_Sample.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:walterwsp/Java_Sample.git</developerConnection>
   </scm>
 
   <distributionManagement>
